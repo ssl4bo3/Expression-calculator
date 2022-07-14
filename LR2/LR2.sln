@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LR2", "LR2.csproj", "{D8C19156-C1E7-4C41-8699-5504DCD5AA27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LLR2.Tests", "..\LLR2.Tests\LLR2.Tests.csproj", "{DB9F04C1-63E5-4A7D-B163-88A895A895A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8C19156-C1E7-4C41-8699-5504DCD5AA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C19156-C1E7-4C41-8699-5504DCD5AA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C19156-C1E7-4C41-8699-5504DCD5AA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C19156-C1E7-4C41-8699-5504DCD5AA27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB9F04C1-63E5-4A7D-B163-88A895A895A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9F04C1-63E5-4A7D-B163-88A895A895A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9F04C1-63E5-4A7D-B163-88A895A895A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9F04C1-63E5-4A7D-B163-88A895A895A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B13C5D2B-D240-4F22-B95F-422107E6B99E}
+	EndGlobalSection
+EndGlobal
